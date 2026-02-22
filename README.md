@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h1>Olá, eu sou o Rafael Portugal! 👋</h1>
+  <p>Desenvolvedor Full Stack apaixonado por tecnologia.</p>
+</div>
