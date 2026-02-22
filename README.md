@@ -1,5 +1,3 @@
-### Hi there 👋 💬
-
 <!--
 **RafaelPortugal27/RafaelPortugal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,10 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Olá, eu sou o Rafael Portugal! 👋</h1>
   <p>Desenvolvedor Full Stack apaixonado por tecnologia.</p>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/rafaelmportugal" target="_blank" style="text-decoration: none;">
+      <img src="linkedIn_logo.png" height="25" alt="LinkedIn" style="vertical-align: middle;">
+      <span style="vertical-align: middle; font-weight: bold;">rafaelmportugal</span>
+    </a>
+  </div>
 </div>
