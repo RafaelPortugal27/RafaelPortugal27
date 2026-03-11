@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <p>Desenvolvedor Full Stack apaixonado por tecnologia.</p>
   <div align="center">
     <a href="https://www.linkedin.com/in/rafaelmportugal" target="_blank" style="text-decoration: none;">
-      <img src="linkedIn_logo.png" height="25" alt="LinkedIn" style="vertical-align: middle;">
+      <img src="public/linkedIn_logo.png" height="25" alt="LinkedIn" style="vertical-align: middle;">
       <span style="vertical-align: middle; font-weight: bold;">rafaelmportugal</span>
     </a>
   </div>
