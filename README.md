@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Olá, eu sou o Rafael Portugal! 👋</h1>
   <p>Desenvolvedor Full Stack apaixonado por tecnologia.</p>
+  <p>Desenvolvedor Full Stack | React | Node.JS | Javascript | Typescript | Nest.JS | Next.JS</p>
   <div align="center">
     <a href="https://www.linkedin.com/in/rafaelmportugal" target="_blank" style="text-decoration: none;">
       <img src="linkedIn_logo.png" height="25" alt="LinkedIn" style="vertical-align: middle;">
