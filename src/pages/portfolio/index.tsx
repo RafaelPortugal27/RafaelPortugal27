@@ -153,9 +153,12 @@ export default function Portfolio() {
               <span className="badge">Node.js · TypeScript · React</span>
             </div>
             <div className="hero-cta">
-              <a href="mailto:rafael.mportugal@gmail.com" className="btn-primary">
+              {/* <a href="mailto:rafael.mportugal@gmail.com" className="btn-primary">
                 {lang === 'pt' ? 'Entre em Contato' : 'Get in Touch'}
-              </a>
+              </a> */}
+              <button className="btn-primary" onClick={() => scrollTo('contact')}>
+                {lang === 'pt' ? 'Entre em Contato' : 'Get in Touch'}
+              </button>
               <a
                 href="https://linkedin.com/in/rafaelmportugal"
                 target="_blank"
@@ -171,7 +174,7 @@ export default function Portfolio() {
             <div className="avatar-ring" />
             <div className="avatar-ring avatar-ring-2" />
             <img
-              src="https://api.dicebear.com/9.x/adventurer/svg?seed=RafaelBlonde&backgroundColor=b6e3f4&hairColor=e8c14a&beardProbability=100"
+              src="https://api.dicebear.com/9.x/adventurer/svg?seed=rafael-avatar&backgroundColor=b6e3f4&hair=short14&hairColor=e8c14a&beardProbability=100&mouth=variant02&eyes=variant03&radius=50&scale=100"
               alt="Avatar"
               className="avatar-img"
             />
@@ -293,10 +296,10 @@ export default function Portfolio() {
               <span className="contact-link-icon">✉</span>
               rafael.mportugal@gmail.com
             </a>
-            <a href="tel:+5524998410807" className="contact-link">
+            {/* <a href="tel:+5524998410807" className="contact-link">
               <span className="contact-link-icon">✆</span>
               (24) 99841-0807
-            </a>
+            </a> */}
             <a href="https://linkedin.com/in/rafaelmportugal" target="_blank" rel="noreferrer" className="contact-link">
               <span className="contact-link-icon">in</span>
               linkedin.com/in/rafaelmportugal
