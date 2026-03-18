@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </a>
   </div>
   <div align="center">
-    <a href="https://www.linkedin.com/in/rafaelmportugal" target="_blank" style="text-decoration: none;">
+    <a href="https://rafaelportugal27.github.io/RafaelPortugal27/" target="_blank" style="text-decoration: none;">
       <span style="vertical-align: middle; font-weight: bold;">Portfolio</span>
     </a>
   </div>
