@@ -22,4 +22,9 @@ Here are some ideas to get you started:
       <span style="vertical-align: middle; font-weight: bold;">rafaelmportugal</span>
     </a>
   </div>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/rafaelmportugal" target="_blank" style="text-decoration: none;">
+      <span style="vertical-align: middle; font-weight: bold;">Portfolio</span>
+    </a>
+  </div>
 </div>
