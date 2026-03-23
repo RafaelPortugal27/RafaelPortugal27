@@ -4,7 +4,7 @@ const info: Translation = {
   nav: { about: 'Sobre', skills: 'Skills', experience: 'Experiência', education: 'Formação', contact: 'Contato' },
   hero: {
     greeting: 'Olá, eu sou',
-    role: 'Desenvolvedor Full Stack Pleno',
+    role: 'Desenvolvedor Full Stack Pleno | React | Node.JS | Javascript | Typescript | Nest.JS | Next.JS',
     location: 'Volta Redonda, Rio de Janeiro — Brasil',
     available: 'Disponível para projetos',
   },
