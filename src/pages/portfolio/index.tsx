@@ -140,7 +140,7 @@ export default function Portfolio() {
           <div className="hero-text">
             <p className="hero-greeting">{t.hero.greeting}</p>
             <h1 className="hero-name">
-              Rafael<br />
+              Rafael M.<br />
               <span className="hero-name-accent">Portugal</span>
             </h1>
             <p className="hero-role">{t.hero.role}</p>
