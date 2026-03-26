@@ -7,6 +7,9 @@ const info: Translation = {
     role: 'Full Stack Developer | React | Node.JS | Javascript | Typescript | Nest.JS | Next.JS',
     location: 'Volta Redonda, Rio de Janeiro — Brazil',
     available: 'Available for projects',
+    description: "I build scalable web applications, APIs and SaaS platforms. Experience with e-commerce and ERP integrations.",
+    badge: "Node.js · TypeScript · React",
+    contactButton: "Get in Touch",
   },
   about: {
     title: 'About Me',

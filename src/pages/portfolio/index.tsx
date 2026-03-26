@@ -145,19 +145,22 @@ export default function Portfolio() {
             </h1>
             <p className="hero-role">{t.hero.role}</p>
             <p className="hero-location">
+              {t.hero.description}
+            </p>
+            <p className="hero-location">
               <span className="location-dot" />
               {t.hero.location}
             </p>
             <div className="hero-badges">
               <span className="badge badge-available">{t.hero.available}</span>
-              <span className="badge">Node.js · TypeScript · React</span>
+              <span className="badge">{t.hero.badge}</span>
             </div>
             <div className="hero-cta">
               {/* <a href="mailto:rafael.mportugal@gmail.com" className="btn-primary">
-                {lang === 'pt' ? 'Entre em Contato' : 'Get in Touch'}
+                {t.hero.contactButton}
               </a> */}
               <button className="btn-primary" onClick={() => scrollTo('contact')}>
-                {lang === 'pt' ? 'Entre em Contato' : 'Get in Touch'}
+                {t.hero.contactButton}
               </button>
               <a
                 href="https://linkedin.com/in/rafaelmportugal"

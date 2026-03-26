@@ -1,6 +1,6 @@
 export interface Translation {
   nav: { about: string; skills: string; experience: string; education: string; contact: string };
-  hero: { greeting: string; role: string; location: string; available: string };
+  hero: { greeting: string; role: string; location: string; available: string, description: string, badge: string, contactButton: string};
   about: { title: string; text: string };
   skills: { title: string; languages: string; frontend: string; backend: string; db: string; arch: string };
   experience: { title: string; jobs: { period: string; role: string; company: string; desc: string }[] };

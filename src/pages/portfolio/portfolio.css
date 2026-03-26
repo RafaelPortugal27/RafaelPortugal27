@@ -288,6 +288,7 @@ body {
   margin-bottom: 1rem;
   opacity: 0;
   animation: fadeSlideUp 0.7s 0.35s forwards;
+  text-wrap-mode: nowrap;
 }
 .hero-name-accent {
   color: var(--accent);
