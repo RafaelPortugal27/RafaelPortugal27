@@ -14,7 +14,7 @@ const translations: Record<Lang, Translation> = {
 const skillsData = {
   languages: ['JavaScript (ES6+)', 'TypeScript', 'Node.js'],
   frontend: ['React', 'React Native', 'Next.js', 'Redux', 'HTML5', 'CSS3'],
-  backend: ['Nest.js', 'Express', 'GraphQL', 'RESTful APIs', 'Microsserviços'],
+  backend: ['Nest.js', 'Express', 'GraphQL', 'RESTfull APIs', 'Microsserviços'],
   db: ['PostgreSQL', 'MongoDB', 'MySQL', 'MariaDB', 'SQL Server'],
   arch: ['Clean Architecture', 'SOLID', 'Twelve-Factor App', 'Docker', 'SQS', 'JitterBit', 'Git / GitHub'],
 };
